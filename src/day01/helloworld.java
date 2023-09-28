@@ -2,6 +2,18 @@ package day01;
 
 public class helloworld {
     public static void main(String[] args) {
-        System.out.println("hello world free java");
-    }
+
+
+
+    int sayi1 = 5;
+
+    int sayi2 = 2;
+
+    double son = sayi1 / sayi2;
+        System.out.println(son);}
+
+
+
 }
+
+

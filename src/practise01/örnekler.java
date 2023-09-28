@@ -12,6 +12,8 @@ public class örnekler {
                 System.out.print(i + " ");
 
             }
+
+            }
         }
     }
-}
+

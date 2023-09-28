@@ -5,5 +5,3 @@ public class c01_metod {
     }
 }
 
-
-
